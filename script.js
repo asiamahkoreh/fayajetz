@@ -6,7 +6,7 @@
 
 'use strict';
 
-const WA_NUMBER = '23324029171';
+const WA_NUMBER = '233240299171';
 const WA_BASE   = `https://wa.me/${WA_NUMBER}`;
 
 /* ═══════════════════════
